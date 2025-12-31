@@ -46,6 +46,7 @@ Larger, standalone tools and pipelines will be added as they mature.
 - Google Scholar: [https://scholar.google.com/citations?user=EdpZi5gAAAAJ&hl=en]
 - ORCID: [https://orcid.org/0000-0002-6987-6460]
 - Institutional / Lab Page: [https://coe.nuhs.edu.sg/centre-for-healthy-longevity]
+- LinkedIn: [https://www.linkedin.com/in/sandra-jose-nus/]
 
 ---
 
