@@ -30,6 +30,7 @@ This GitHub hosts:
 - R scripts for MD trajectory analysis and publication-quality plots  
 - Lightweight, modular scripts used in day-to-day computational research  
 - Research sandboxes and notes for future method and pipeline development
+- Dataset curation documentation, including the [TPD dataset curation protocol](docs/tpd_dataset_curation_protocol.md)
 
 Larger, standalone tools and pipelines will be added as they mature.
 
